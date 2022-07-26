@@ -6,7 +6,7 @@ https://nesmamanasra.github.io/portfolio-page-bootstrap-task-internship-PITA/
 ![portt](https://user-images.githubusercontent.com/52491098/181008660-fea85d30-1460-4ad6-a1ee-cac81eb68a15.PNG)
 
 
-## Why did you do this task
+## Why did I do this task
 In this training, we learned CSS and CSS framework (Bootstrap v5.2) and this task was uploaded to the classroom where there is a forum for tasks and topics we are learning.
 The task required is to build a wallet in which we put personal information with the use of the bootstrap framework and responsive design.
 
