@@ -15,13 +15,13 @@ This project is simple Portfolio using Bootstarp framework.
 ![portt](https://user-images.githubusercontent.com/52491098/181008660-fea85d30-1460-4ad6-a1ee-cac81eb68a15.PNG)
 
 ## Description
-### Why did I do this task
+### Why did I do this task ?
 In this training, we learned CSS and CSS framework (Bootstrap v5.2) and this task was uploaded to the classroom where there is a forum for tasks and topics we are learning. The task required is to build a wallet in which we put personal information with the use of the bootstrap framework .
 
-### what is this page?
+### what is this page ?
 This page contains my personal and technical information and some of my personal photos
 
-### How I did it?
+### How I did it ?
 - First I create html css js files and add folder for images and add my cv
 - In the HTML file, I copied the bootstrap CDN and pasted it inside the file, and then I started writing codes and using container class and also I took ready-made codes from bootstraps like navbar and card, and using row and col-md-6 helps me make the responsive web.
 -In a css file I imported a specific type of font for my site And I write many formats, including flexbox, to make my site beautiful.
