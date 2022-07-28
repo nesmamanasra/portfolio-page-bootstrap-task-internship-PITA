@@ -30,4 +30,5 @@ Where I used this library inside the html and wrote the code in JavaScript, I sa
 
 
 ### resource 
+- Bootstrap v5.2 https://getbootstrap.com/
 - typed.js https://mattboldt.com/demos/typed-js/
