@@ -24,3 +24,5 @@ Where I used this library inside the html and wrote the code in JavaScript, I sa
 - HTML CSS, CSS Freamework 'Bootstrap", Js 'typed.js'
 - VScode
 - GitHub control version
+## resource 
+- typed.js https://mattboldt.com/demos/typed-js/
